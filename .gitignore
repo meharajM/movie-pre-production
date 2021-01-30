@@ -1,7 +1,4 @@
 node_modules
-apps/mpp/*/*
-apps/mpp/*/*.*
-apps/storyline/*/*
-apps/storyline/*/*.*
-apps/scriptAssist/*/*
-apps/scriptAssist/*/*.*
+apps/mpp
+apps/storyline
+apps/scriptAssist
