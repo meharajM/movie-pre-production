@@ -1,4 +1,5 @@
 node_modules
 apps/mpp
 apps/storyline
+apps/storyline/static
 apps/scriptAssist

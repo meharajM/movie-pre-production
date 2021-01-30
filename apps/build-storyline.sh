@@ -7,5 +7,6 @@ npm install
 npm run build
 cd build
 mv * ../..*
-rm master.zip -rf
-rm Storyline-generator -rf
+cd ../..
+rm master.zip
+rm -rf Storyline-generator-master

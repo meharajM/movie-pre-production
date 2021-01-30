@@ -7,5 +7,6 @@ npm install
 npm run build
 cd build
 mv * ../..*
-rm -rf master.zip
+cd ../..
+rm master.zip
 rm -rf Script-assist-master
