@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/app/storyline/static/css/main.1f3e683e.chunk.css",
+    "main.js": "/app/storyline/static/js/main.469574a0.chunk.js",
+    "main.js.map": "/app/storyline/static/js/main.469574a0.chunk.js.map",
+    "runtime-main.js": "/app/storyline/static/js/runtime-main.f91a0440.js",
+    "runtime-main.js.map": "/app/storyline/static/js/runtime-main.f91a0440.js.map",
+    "static/css/2.8c1dcbfa.chunk.css": "/app/storyline/static/css/2.8c1dcbfa.chunk.css",
+    "static/js/2.b36083d4.chunk.js": "/app/storyline/static/js/2.b36083d4.chunk.js",
+    "static/js/2.b36083d4.chunk.js.map": "/app/storyline/static/js/2.b36083d4.chunk.js.map",
+    "index.html": "/app/storyline/index.html",
+    "precache-manifest.88405e311132316314b58d90221c7c27.js": "/app/storyline/precache-manifest.88405e311132316314b58d90221c7c27.js",
+    "service-worker.js": "/app/storyline/service-worker.js",
+    "static/css/2.8c1dcbfa.chunk.css.map": "/app/storyline/static/css/2.8c1dcbfa.chunk.css.map",
+    "static/css/main.1f3e683e.chunk.css.map": "/app/storyline/static/css/main.1f3e683e.chunk.css.map",
+    "static/js/2.b36083d4.chunk.js.LICENSE.txt": "/app/storyline/static/js/2.b36083d4.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f91a0440.js",
+    "static/css/2.8c1dcbfa.chunk.css",
+    "static/js/2.b36083d4.chunk.js",
+    "static/css/main.1f3e683e.chunk.css",
+    "static/js/main.469574a0.chunk.js"
+  ]
+}
