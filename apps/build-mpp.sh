@@ -1,6 +1,6 @@
 cd mpp
 rm -rf ./*
-wget https://github.com/meharajM/mpp/archive/main.zip
+wget https://github.com/Gouravmm/MPP/archive/main.zip
 unzip main.zip
-cd mpp-main
+cd MPP-main
 mv * ../
